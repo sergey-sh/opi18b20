@@ -1,0 +1,1 @@
+SUBSYSTEM=="module", DEVPATH=="/module/opi18b20", RUN+="/lib/udev/opi18b20"
